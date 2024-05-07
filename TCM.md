@@ -60,7 +60,9 @@ TCM은 ‘아토믹 거버넌스’라 불리는 모델을 통해 소프트웨�
 
 ## 스마트 컨트랙트 코드와 예시 링크
 stETH를 스테이킹하고 네이티브 프로젝트 토큰을 획득하는 [자본 제공자를 위한 스마트 컨트랙트](https://github.com/MorpheusAIs/SmartContracts)
+
 연산 입찰을 위한 [옐로스톤 연산 모델](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Yellowstone%20Compute%20Model.md)
+
 [코드 기여 증명](https://github.com/MorpheusAIs/Docs/tree/main/Contributions)의 예 
 
 ## 탈중앙 테크와 기업 구조의 부조화
@@ -88,6 +90,7 @@ stETH를 스테이킹하고 네이티브 프로젝트 토큰을 획득하는 [�
 
 
 그럼 어떡하냐고요?
+
 이러한 문제를 극복할 새로운 모델이 필요한 때입니다. 이제 론칭만 남았습니다 - 테크노 캐피털 머신.
 
 
